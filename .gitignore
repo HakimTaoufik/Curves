@@ -1,0 +1,14 @@
+# Ignore virtual environments
+venv/
+
+# Ignore test directories
+tests/
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Git directory
+.git/
+
+# Ignore Python cache
+__pycache__/
