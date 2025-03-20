@@ -9,6 +9,8 @@ tests/
 
 # Ignore Git directory
 .git/
+.gitignore
 
 # Ignore Python cache
 __pycache__/
+
